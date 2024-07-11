@@ -1,0 +1,39 @@
+@startuml
+
+!include https://raw.githubusercontent.com/serejhaaa/plants/main/Icons.puml
+
+rectangle "<$teamcity>\n//$teamcity//" as teamcity
+rectangle "<$gearman>\n//$gearman//" as gearman
+rectangle "<$k8s>\n//$k8s//" as k8s
+rectangle "<$vmware>\n//$vmware//" as vmware
+rectangle "<$terraform>\n//$terraform//" as terraform
+rectangle "<$jenkins>\n//$jenkins//" as jenkins
+rectangle "<$database_server>\n//$database_server//" as database_server
+rectangle "<$dotnet>\n//$dotnet//" as dotnet
+rectangle "<$c-plusplus>\n//$c-plusplus//" as plusplus
+rectangle "<$sqlserver>\n//$sqlserver//" as sqlserver
+rectangle "<$share>\n//$share//" as share
+rectangle "<$octopus-deploy>\n//$octopus-deploy//" as octopusdeploy
+rectangle "<$python>\n//$python//" as python
+rectangle "<$jira>\n//$jira//" as jira
+rectangle "<$robot>\n//$robot//" as robot
+rectangle "<$gitlab>\n//$gitlab//" as gitlab
+rectangle "<$virtual_server>\n//$virtual_server//" as virtualserver
+rectangle "<$virtual_application_server>\n//$virtual_application_server//" as virtualapplica
+rectangle "<$git>\n//$git//" as git
+rectangle "<$iis>\n//$iis//" as iis
+rectangle "<$ansible>\n//$ansible//" as ansible
+rectangle "<$windows_powershell>\n//$windows_powershell//" as windowspowersh
+rectangle "<$exchange>\n//$exchange//" as exchange
+rectangle "<$mail>\n//$mail//" as mail
+rectangle "<$moex>\n//$moex//" as moex
+rectangle "<$alfa>\n//$alfa//" as alfa
+rectangle "<$ms-report>\n//$ms-report//" as msreport
+rectangle "<$minio>\n//$minio//" as minio
+rectangle "<$js>\n//$js//" as js
+rectangle "<$pipeline>\n//$pipeline//" as pipeline
+rectangle "<$tableau>\n//$tableau//" as tableau
+rectangle "<$spirit>\n//$spirit//" as spirit
+rectangle "<$user>\n//$user//" as user
+
+@enduml
