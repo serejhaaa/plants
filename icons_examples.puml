@@ -1,6 +1,6 @@
 @startuml
 
-!include https://raw.githubusercontent.com/serejhaaa/plants/main/Icons.puml
+!include https://gitlab.tcsbank.ru/s.a.devyatov/plantuml_icons/-/raw/master/icons.puml
 
 rectangle "<$teamcity>\n//$teamcity//" as teamcity
 rectangle "<$gearman>\n//$gearman//" as gearman
