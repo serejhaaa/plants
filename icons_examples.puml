@@ -36,5 +36,6 @@ rectangle "<$tableau>\n//$tableau//" as tableau
 rectangle "<$spirit>\n//$spirit//" as spirit
 rectangle "<$user>\n//$user//" as user
 rectangle "<$kafka>\n//$kafka//" as kafka
+rectangle "<$paas>\n//$paas//" as paas
 
 @enduml
