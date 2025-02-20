@@ -1,6 +1,6 @@
 @startuml
 
-!include https://gitlab.tcsbank.ru/s.a.devyatov/plantuml_icons/-/raw/master/icons.puml
+!include_many https://raw.githubusercontent.com/serejhaaa/plants/main/icons.puml
 
 rectangle "<$teamcity>\n//$teamcity//" as teamcity
 rectangle "<$gearman>\n//$gearman//" as gearman
@@ -35,5 +35,6 @@ rectangle "<$pipeline>\n//$pipeline//" as pipeline
 rectangle "<$tableau>\n//$tableau//" as tableau
 rectangle "<$spirit>\n//$spirit//" as spirit
 rectangle "<$user>\n//$user//" as user
+rectangle "<$kafka>\n//$kafka//" as kafka
 
 @enduml
